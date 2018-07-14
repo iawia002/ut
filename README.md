@@ -1,5 +1,7 @@
 # ut
 
+[![Build Status](https://travis-ci.com/iawia002/ut.svg?branch=master)](https://travis-ci.com/iawia002/ut)
+[![codecov](https://codecov.io/gh/iawia002/ut/branch/master/graph/badge.svg)](https://codecov.io/gh/iawia002/ut)
 [![GoDoc](https://godoc.org/github.com/iawia002/ut?status.svg)](https://godoc.org/github.com/iawia002/ut)
 
 The missing utility library for Go.
